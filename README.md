@@ -28,8 +28,8 @@ for the first runnint media player from the supported list.
 1. Audacious
 2. MPD -- _Music player daemon_ (though mpc)
 
-## Improvements (TODO)
+# Help wanted!
 
-* Add some more players
-* Read player config from a `.playerctlrc` file
-* Refactor as a decent bash program
+Please, see the [issues](https://github.com/paulodiovani/media-player-control/issues) to know how to help.
+
+Open new issues is also a good help.
