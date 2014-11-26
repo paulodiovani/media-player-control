@@ -18,7 +18,8 @@ COMMANDS="play pause toggle stop prev next"
 # 
 # params:   name       command      play  pause  toggle  stop  prev  next
 PLAYERS[0]="audacious  audacious    -p    -u     -t      -s    -r    -f"
-PLAYERS[1]="mpd        mpc -p 6601  play  pause  toggle  stop  prev  next"
+PLAYERS[1]="exaile     exaile       -a    -u     -t      -s    -p    -n"
+PLAYERS[2]="mpd        mpc -p 6601  play  pause  toggle  stop  prev  next"
 
 # Write error message and exit
 err() {
