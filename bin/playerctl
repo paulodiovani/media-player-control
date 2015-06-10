@@ -8,8 +8,9 @@
 # @author Paulo Diovani <paulo@diovani.com>
 # 
 # Current supported players:
-# * Audacious
-# * MPD/mpc
+# - Audacious
+# - Exaile
+# - MPD/mpc
 
 # Avaiable commands (same as mpc)
 COMMANDS="play pause toggle stop prev next"

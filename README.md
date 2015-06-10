@@ -25,8 +25,9 @@ for the first runnint media player from the supported list.
 
 ## Supported media players
 
-1. Audacious
-2. MPD -- _Music player daemon_ (though mpc)
+- Audacious
+- Exaile
+- MPD -- _Music player daemon_ (though mpc)
 
 # Help wanted!
 
