@@ -27,6 +27,7 @@ for the first runnint media player from the supported list.
 
 - Audacious
 - Exaile
+- Spotify (Linux client)
 - MPD -- _Music player daemon_ (though mpc)
 
 # Help wanted!
